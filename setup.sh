@@ -133,7 +133,7 @@ echo -e $yellow "[ ! ] install colorize"
 sudo gem install colorize > /dev/null 2>&1
 echo -e $green "[ ✔ ] Colorize installed "
 sleep 2
-echo -e $yellow "[ ! ] geving permission to avoidz script"
+echo -e $yellow "[ ! ] geving permission to Kurdoz script"
 chmod +x kurdoz.rb
 sleep 2
 echo -e $blue "To execute Kurdoz write (./kurdoz.rb) to see help commands."
