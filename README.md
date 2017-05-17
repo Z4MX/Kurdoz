@@ -8,11 +8,7 @@ remember this is only for educational purpose.
 Description:
 
 This tool Generate encoded powershell with metasploit payloads,convert C & C# Templates to EXE's 
-Screenshot:
 
-pic1
-
-pic2
 
 
 
