@@ -21,7 +21,7 @@ puts ""
 puts " Tool To bypass most A.V - Zanyar-Matrix".light_blue
 puts ""
 a = Artii::Base.new :font => 'basic'
-puts a.asciify('avoidz').light_blue
+puts a.asciify('Kurdoz').light_blue
 
 
 options = {}
