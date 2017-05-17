@@ -1,4 +1,4 @@
-Avoidz v 1.0
+Kurdoz v 1.0
 
 Author: ZANYAR MATRIX [ www.ZanyarMatrix.com ]
 Legal Disclamer:
