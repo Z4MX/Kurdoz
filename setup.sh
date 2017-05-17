@@ -21,8 +21,8 @@ clear
 echo -e $blue ""
 
 echo "                                      "
-echo "   Setup Script for AVOIDZ 1.0        "
-echo " Created by Mascerano Bachir/Dev-labs "
+echo "   Setup Script for Kurdoz 1.0        "
+echo " Created by Zanyar Matrix "
 #updating your distro
 echo -e $green ""
 echo "[ ✔ ] system found."
